@@ -136,7 +136,7 @@ The following libraries were utilized:
 ## Results
 The project demonstrated:
 - Effective preprocessing techniques that improved model performance.
-- Linear regression models achieving an R² score of X (replace with actual value).
+- Linear regression models achieving an R² score of X 0.46.
 - Insights into the features most strongly correlated with product pricing.
 
 ## Future Work
@@ -156,8 +156,4 @@ The project demonstrated:
 3. Run the notebook:
    Open `Product_analysis_and_Price_Prediction.ipynb` in Jupyter Notebook and execute the cells.
 
-## File Structure
-- **Product_analysis_and_Price_Prediction.ipynb**: Main notebook containing code and analysis.
-- **data/**: Folder containing dataset files (if available).
-- **requirements.txt**: List of required Python libraries.
 
